@@ -1,1 +1,2 @@
-Mi primer proyecto en GitHub
+Equipo 1 para programacion
+
