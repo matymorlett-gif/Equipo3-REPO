@@ -5,7 +5,7 @@
 using namespace std;
 struct Producto
 {
-    string id;
+    int id;
     string nombre;
     int precio;
     Fecha fechaCaducidad;
